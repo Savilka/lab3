@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs/lab2/v17
+/.vs/lab3/v17
+/Debug
+/Backup

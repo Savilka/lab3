@@ -1,0 +1,25 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  translator.cpp
+C:\Users\siman\Desktop\trans\lab3\lab2\translator.cpp(144,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\siman\Desktop\trans\lab3\lab2\translator.cpp(173,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\siman\Desktop\trans\lab3\lab2\translator.cpp(255,10): warning C4101: i: неиспользованная локальная переменная
+C:\Users\siman\Desktop\trans\lab3\lab2\translator.cpp(399,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\siman\Desktop\trans\lab3\lab2\translator.cpp(485,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\siman\Desktop\trans\lab3\lab2\translator.cpp(382,6): warning C4101: id_numb: неиспользованная локальная переменная
+C:\Users\siman\Desktop\trans\lab3\lab2\translator.cpp(571,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\siman\Desktop\trans\lab3\lab2\translator.cpp(583,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\siman\Desktop\trans\lab3\lab2\translator.cpp(609,44): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\siman\Desktop\trans\lab3\lab2\translator.cpp(629,20): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\siman\Desktop\trans\lab3\lab2\const_table.h(65,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\siman\Desktop\trans\lab3\lab2\const_table.h(64): message : во время компиляции функции-члена класс шаблон "bool const_table<std::string>::get_elemen_value(int,Table_type &)"
+          with
+          [
+              Table_type=std::string
+          ]
+C:\Users\siman\Desktop\trans\lab3\lab2\translator.cpp(58): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool const_table<std::string>::get_elemen_value(int,Table_type &)"
+          with
+          [
+              Table_type=std::string
+          ]
+C:\Users\siman\Desktop\trans\lab3\lab2\translator.h(52): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "const_table<std::string>"
+  lab2.vcxproj -> C:\Users\siman\Desktop\trans\lab3\Debug\lab234.exe
